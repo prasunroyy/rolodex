@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+h1 {
+  font-family: "Train One";
+  font-size: 72px;
+  color: rgb(112, 67, 0);
+}
